@@ -1,4 +1,4 @@
 Aarón Portales Rodrigo - 2016
 Para compilar:	$ gcc pila_baraja.c func_pila_vect.c -o cartas
-				$ ./cartas		
+		$ ./cartas		
 
